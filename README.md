@@ -44,7 +44,7 @@ EcoMer…
 | Descuentos automáticos| Lógica para aplicar descuento desde la segunda unidad                        | User story     | Requiere validación de carrito       |
 | Login funcional       | Autenticación, recuperación de contraseña, sesión persistente                | EPica       | Debe ser segura y fluida             |
 | Cookies               | Activación solo tras login y consentimiento del usuario                      | User story      | Cumplir políticas de privacidad      |
-| ChatBot               | Chat de soporte, atención a dudas, flujos básicos automatizados              | Feature     | Integración con base de conocimiento |
+| ChatBot               | Chat de soporte, atención a dudas, flujos básicos automatizados              | EPica    | Integración con base de conocimiento |
 | Modo oscuro           | Cambio de tema sin recarga de página                                         | Task       | Soporte para todos los navegadores   |
 | MercadoPago           | Checkout rápido, seguro y validación de pago                                 |  Task      | API externa                                       |
 
